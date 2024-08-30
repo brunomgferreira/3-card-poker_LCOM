@@ -1,0 +1,6 @@
+<map id="direct_mode" name="direct_mode">
+<area shape="rect" id="node1" title="Converts RGB components to a direct color in RGB565 mode." alt="" coords="5,56,108,83"/>
+<area shape="rect" id="node2" href="$group__video.html#ga12088bc9856969b381df4e08a29a63aa" title="Extracts the blue component from a direct color." alt="" coords="156,5,195,32"/>
+<area shape="rect" id="node3" href="$group__video.html#gae6352364f27a34122b9da565f8da9833" title="Extracts the green component from a direct color." alt="" coords="156,56,195,83"/>
+<area shape="rect" id="node4" href="$group__video.html#gac889b88b8a09b392b98eff56e8b5b222" title="Extracts the red component from a direct color." alt="" coords="156,107,195,133"/>
+</map>

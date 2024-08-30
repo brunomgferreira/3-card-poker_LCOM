@@ -1,0 +1,4 @@
+<map id="draw_show_dealer_cards" name="draw_show_dealer_cards">
+<area shape="rect" id="node1" title="Draws the revealed dealer&#39;s cards." alt="" coords="5,5,191,32"/>
+<area shape="rect" id="node2" href="$group__game.html#ga9748b0fd44064742b70e34048c3e68de" title="Flips the dealer&#39;s cards." alt="" coords="239,5,371,32"/>
+</map>

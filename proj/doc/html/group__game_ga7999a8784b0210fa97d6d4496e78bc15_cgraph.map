@@ -1,0 +1,7 @@
+<map id="draw_game_no_coins" name="draw_game_no_coins">
+<area shape="rect" id="node1" title="Draws the screen indicating no coins left." alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node2" href="$group__main.html#ga010e99d88466fcbec8b586168b4bccfd" title="Draws a text container on the screen." alt="" coords="216,5,371,32"/>
+<area shape="rect" id="node3" href="$group__video.html#ga99d2da2559e11200c6b40c469e9977ec" title="Draws a rectangle of the specified color starting at the given coordinates." alt="" coords="419,5,564,32"/>
+<area shape="rect" id="node4" href="$group__video.html#ga5e5b25bd525250f61f40b9e9f212d5e6" title="Draws a horizontal line of the specified color starting at the given coordinates." alt="" coords="612,5,728,32"/>
+<area shape="rect" id="node5" href="$group__video.html#ga969d5a1c3f63e084f4d1b0c1e722a9fe" title="Draws a pixel of the specified color at the given coordinates." alt="" coords="776,5,891,32"/>
+</map>

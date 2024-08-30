@@ -1,0 +1,4 @@
+<map id="handle_game_go_back" name="handle_game_go_back">
+<area shape="rect" id="node1" title="Handles going back to the main menu." alt="" coords="5,5,176,32"/>
+<area shape="rect" id="node2" href="$group__main.html#ga6e46cd264ae494f5c5107dd34ef41e40" title="Writes player data to a file." alt="" coords="224,5,411,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Player" name="Player">
+<area shape="rect" id="node1" title="Structure representing a player." alt="" coords="16,95,79,121"/>
+<area shape="rect" id="node2" href="$structtime__info.html" title="Structure that holds time information." alt="" coords="5,5,89,32"/>
+</map>

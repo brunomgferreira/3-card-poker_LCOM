@@ -1,0 +1,8 @@
+<map id="decrease_bet" name="decrease_bet">
+<area shape="rect" id="node1" title="Decreases the bet value." alt="" coords="713,31,823,57"/>
+<area shape="rect" id="node2" href="$group__game.html#ga75a66176531a14c93612dbcef78c3daf" title="Handles mouse click actions during the game." alt="" coords="467,5,665,32"/>
+<area shape="rect" id="node5" href="$group__game.html#gaf9196d222f601f21970294884f1a9a73" title="Handles keyboard input during the game." alt="" coords="495,56,637,83"/>
+<area shape="rect" id="node3" href="$group__game.html#ga1884795e264c4d35db8939b1a6dc559b" title="Handles mouse input during the game." alt="" coords="243,5,404,32"/>
+<area shape="rect" id="node4" href="$group__main.html#ga9d86b48154c314ee8aa001453248f6b1" title="Handles mouse input controller." alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node6" href="$group__main.html#ga863e46ed21d85cec69f2eb87b6402047" title="Handles keyboard input controller." alt="" coords="228,56,419,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="kbd_restore" name="kbd_restore">
+<area shape="rect" id="node1" title="Restores the keyboard to its default state." alt="" coords="5,31,104,57"/>
+<area shape="rect" id="node2" href="$group__kbc.html#gafe50572ecfcaa1eca11f438acb23aaf1" title="Reads the output from the keyboard controller." alt="" coords="165,5,296,32"/>
+<area shape="rect" id="node3" href="$group__kbc.html#ga43f3cf6fb1e60fc562bc819243ec3e90" title="Writes a command to the keyboard controller." alt="" coords="152,56,309,83"/>
+</map>

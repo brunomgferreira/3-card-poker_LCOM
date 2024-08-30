@@ -1,0 +1,14 @@
+<map id="is_on_close_button" name="is_on_close_button">
+<area shape="rect" id="node1" title="Checks if the mouse is on the close button." alt="" coords="1165,118,1312,145"/>
+<area shape="rect" id="node2" href="$group__choose__player.html#gae083914c52a04f03b3464185ee6f87d7" title="Handles mouse click events during player selection." alt="" coords="931,52,1098,93"/>
+<area shape="rect" id="node3" href="$group__choose__player.html#gabc3b63ad171e2a9cc64b4a27f3ef2bd2" title="Handles mouse input during player selection." alt="" coords="686,81,857,123"/>
+<area shape="rect" id="node5" href="$group__game.html#ga75a66176531a14c93612dbcef78c3daf" title="Handles mouse click actions during the game." alt="" coords="915,169,1114,195"/>
+<area shape="rect" id="node7" href="$group__game.html#ga6056fbcad51489804f0b718e1e777152" title="Handles mouse hover actions during the game." alt="" coords="912,219,1117,246"/>
+<area shape="rect" id="node12" href="$group__create__player.html#ga98c891c95f65b9e217e738cca1b36692" title="Handles mouse input during player creation." alt="" coords="689,5,854,47"/>
+<area shape="rect" id="node4" href="$group__main.html#ga9d86b48154c314ee8aa001453248f6b1" title="Handles mouse input controller." alt="" coords="430,89,605,115"/>
+<area shape="rect" id="node6" href="$group__game.html#ga1884795e264c4d35db8939b1a6dc559b" title="Handles mouse input during the game." alt="" coords="691,169,852,195"/>
+<area shape="rect" id="node8" href="$group__game.html#ga8eed2965410ae2aeeae86536ece5c712" title="Draws the revealed player&#39;s cards." alt="" coords="679,219,864,246"/>
+<area shape="rect" id="node9" href="$group__game.html#gad73c32eaf961d7152829014355b16c1e" title="Draws the screen showing the player&#39;s hand." alt="" coords="404,219,631,246"/>
+<area shape="rect" id="node10" href="$group__game.html#ga8ad6bfc58667f64cce231a25fc7faab6" title="Handles timer interrupts during the game." alt="" coords="204,219,356,246"/>
+<area shape="rect" id="node11" href="$group__main.html#gaceb31f2ba59d58d3fa566eeee112297d" title="Handles timer interrupt controller." alt="" coords="5,219,156,246"/>
+</map>

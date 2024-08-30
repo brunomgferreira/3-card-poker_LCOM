@@ -1,0 +1,11 @@
+<map id="is_on_increase_bet_button" name="is_on_increase_bet_button">
+<area shape="rect" id="node1" title="Checks if the mouse is on the increase bet button." alt="" coords="1165,23,1312,65"/>
+<area shape="rect" id="node2" href="$group__game.html#ga75a66176531a14c93612dbcef78c3daf" title="Handles mouse click actions during the game." alt="" coords="915,5,1114,32"/>
+<area shape="rect" id="node5" href="$group__game.html#ga6056fbcad51489804f0b718e1e777152" title="Handles mouse hover actions during the game." alt="" coords="912,56,1117,83"/>
+<area shape="rect" id="node3" href="$group__game.html#ga1884795e264c4d35db8939b1a6dc559b" title="Handles mouse input during the game." alt="" coords="691,5,852,32"/>
+<area shape="rect" id="node4" href="$group__main.html#ga9d86b48154c314ee8aa001453248f6b1" title="Handles mouse input controller." alt="" coords="430,5,605,32"/>
+<area shape="rect" id="node6" href="$group__game.html#ga8eed2965410ae2aeeae86536ece5c712" title="Draws the revealed player&#39;s cards." alt="" coords="679,56,864,83"/>
+<area shape="rect" id="node7" href="$group__game.html#gad73c32eaf961d7152829014355b16c1e" title="Draws the screen showing the player&#39;s hand." alt="" coords="404,56,631,83"/>
+<area shape="rect" id="node8" href="$group__game.html#ga8ad6bfc58667f64cce231a25fc7faab6" title="Handles timer interrupts during the game." alt="" coords="204,56,356,83"/>
+<area shape="rect" id="node9" href="$group__main.html#gaceb31f2ba59d58d3fa566eeee112297d" title="Handles timer interrupt controller." alt="" coords="5,56,156,83"/>
+</map>

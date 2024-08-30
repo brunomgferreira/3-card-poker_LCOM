@@ -1,0 +1,10 @@
+<map id="handle_game_mouse_hover" name="handle_game_mouse_hover">
+<area shape="rect" id="node1" title="Handles mouse hover actions during the game." alt="" coords="5,165,211,192"/>
+<area shape="rect" id="node2" href="$group__game.html#ga883308b11d5e733ff5378ad853dbd16b" title="Checks if the mouse is on the bet slider area." alt="" coords="265,5,428,32"/>
+<area shape="rect" id="node3" href="$group__game.html#gabea79966d70d4867057e651eb522e77c" title="Checks if the mouse is on the bet slider thumb." alt="" coords="259,56,435,83"/>
+<area shape="rect" id="node4" href="$group__main.html#ga40dd46a6adfe5395c737a5c599708727" title="Checks if the mouse is on the close button." alt="" coords="273,107,420,133"/>
+<area shape="rect" id="node5" href="$group__game.html#gafd87b184801f1d1cd6cd18dff1053453" title="Checks if the mouse is on the decrease bet button." alt="" coords="271,158,422,199"/>
+<area shape="rect" id="node6" href="$group__game.html#ga68ef374c946061e04874002fb806075a" title="Checks if the mouse is on the fold button." alt="" coords="278,224,415,251"/>
+<area shape="rect" id="node7" href="$group__game.html#ga810c22604758d2a82112dab5bab5c330" title="Checks if the mouse is on the increase bet button." alt="" coords="273,275,420,317"/>
+<area shape="rect" id="node8" href="$group__game.html#ga0b0c62d4b369a2a565f447e5e6e0660a" title="Checks if the mouse is on the play button." alt="" coords="277,341,417,368"/>
+</map>

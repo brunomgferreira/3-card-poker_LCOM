@@ -1,0 +1,4 @@
+<map id="draw_card" name="draw_card">
+<area shape="rect" id="node1" title="Draws a card at the specified coordinates." alt="" coords="5,5,95,32"/>
+<area shape="rect" id="node2" href="$group__card.html#ga1843d10f6bd118d9da59b0638459aa5f" title="Finds the sprite associated with a card." alt="" coords="143,5,268,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="is_point_on_menu_option" name="is_point_on_menu_option">
+<area shape="rect" id="node1" title="Checks if a point is on a menu option." alt="" coords="661,78,849,105"/>
+<area shape="rect" id="node2" href="$group__choose__player.html#gae083914c52a04f03b3464185ee6f87d7" title="Handles mouse click events during player selection." alt="" coords="447,5,613,47"/>
+<area shape="rect" id="node5" href="$group__choose__player.html#ga24d63077754d7eec58d3afbd730d6013" title="Handles mouse movement events during player selection." alt="" coords="447,71,613,112"/>
+<area shape="rect" id="node6" href="$group__menu.html#ga7e1985760583cf0d5c4d2be0fb35cdfa" title="Handles mouse input during menu navigation." alt="" coords="233,137,394,163"/>
+<area shape="rect" id="node3" href="$group__choose__player.html#gabc3b63ad171e2a9cc64b4a27f3ef2bd2" title="Handles mouse input during player selection." alt="" coords="228,71,399,112"/>
+<area shape="rect" id="node4" href="$group__main.html#ga9d86b48154c314ee8aa001453248f6b1" title="Handles mouse input controller." alt="" coords="5,107,180,134"/>
+</map>

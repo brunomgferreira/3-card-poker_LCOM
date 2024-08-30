@@ -1,0 +1,6 @@
+<map id="kbc_read_output" name="kbc_read_output">
+<area shape="rect" id="node1" title="Reads the output from the keyboard controller." alt="" coords="177,56,308,83"/>
+<area shape="rect" id="node2" href="$group__keyboard.html#gae1f2b14717226f10f9609b27bce61eb9" title="Disables keyboard interrupts." alt="" coords="5,5,129,32"/>
+<area shape="rect" id="node3" href="$group__keyboard.html#gab2698b094b95ec9e2d4bc4a9076e32fe" title="Restores the keyboard to its default state." alt="" coords="18,56,117,83"/>
+<area shape="rect" id="node4" href="$group__mouse.html#ga210374b50462acdedab00df64d5cea3c" title="Mouse interrupt handler." alt="" coords="25,107,110,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="handle_kbd_game" name="handle_kbd_game">
+<area shape="rect" id="node1" title="Handles keyboard input during the game." alt="" coords="244,5,385,32"/>
+<area shape="rect" id="node2" href="$group__main.html#ga863e46ed21d85cec69f2eb87b6402047" title="Handles keyboard input controller." alt="" coords="5,5,196,32"/>
+</map>

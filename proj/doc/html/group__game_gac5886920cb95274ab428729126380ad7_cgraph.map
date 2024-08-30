@@ -1,0 +1,4 @@
+<map id="increase_bet" name="increase_bet">
+<area shape="rect" id="node1" title="Increases the bet value." alt="" coords="5,5,111,32"/>
+<area shape="rect" id="node2" href="$group__game.html#gad19735a949a948b8e5f831c9e411f97d" title="Validates the bet value." alt="" coords="159,5,261,32"/>
+</map>

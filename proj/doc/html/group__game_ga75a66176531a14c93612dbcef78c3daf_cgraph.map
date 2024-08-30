@@ -1,0 +1,15 @@
+<map id="handle_game_mouse_click" name="handle_game_mouse_click">
+<area shape="rect" id="node1" title="Handles mouse click actions during the game." alt="" coords="5,233,204,260"/>
+<area shape="rect" id="node2" href="$group__game.html#ga1b8c74f617b259351aa7c87a4348946a" title="Decreases the bet value." alt="" coords="289,5,399,32"/>
+<area shape="rect" id="node4" href="$group__game.html#gab768dc387c1a4a2f804b6df8b691eef3" title="Handles folding the hand." alt="" coords="253,56,435,83"/>
+<area shape="rect" id="node5" href="$group__game.html#gac81c1c128911c762cf0681df4ff50179" title="Handles going back to the main menu." alt="" coords="259,208,429,235"/>
+<area shape="rect" id="node7" href="$group__game.html#ga70d5348e6382932b3f5fa16b43f4e801" title="Handles playing the hand." alt="" coords="252,157,436,184"/>
+<area shape="rect" id="node8" href="$group__game.html#gac5886920cb95274ab428729126380ad7" title="Increases the bet value." alt="" coords="291,107,397,133"/>
+<area shape="rect" id="node9" href="$group__main.html#ga40dd46a6adfe5395c737a5c599708727" title="Checks if the mouse is on the close button." alt="" coords="271,259,417,285"/>
+<area shape="rect" id="node10" href="$group__game.html#gafd87b184801f1d1cd6cd18dff1053453" title="Checks if the mouse is on the decrease bet button." alt="" coords="269,310,419,351"/>
+<area shape="rect" id="node11" href="$group__game.html#ga68ef374c946061e04874002fb806075a" title="Checks if the mouse is on the fold button." alt="" coords="275,376,413,403"/>
+<area shape="rect" id="node12" href="$group__game.html#ga810c22604758d2a82112dab5bab5c330" title="Checks if the mouse is on the increase bet button." alt="" coords="271,427,417,469"/>
+<area shape="rect" id="node13" href="$group__game.html#ga0b0c62d4b369a2a565f447e5e6e0660a" title="Checks if the mouse is on the play button." alt="" coords="274,493,414,520"/>
+<area shape="rect" id="node3" href="$group__game.html#gad19735a949a948b8e5f831c9e411f97d" title="Validates the bet value." alt="" coords="526,56,629,83"/>
+<area shape="rect" id="node6" href="$group__main.html#ga6e46cd264ae494f5c5107dd34ef41e40" title="Writes player data to a file." alt="" coords="484,208,671,235"/>
+</map>

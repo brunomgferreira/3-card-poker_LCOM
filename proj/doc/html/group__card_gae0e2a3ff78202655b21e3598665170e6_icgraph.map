@@ -1,0 +1,4 @@
+<map id="evaluate_hand_type" name="evaluate_hand_type">
+<area shape="rect" id="node1" title="Evaluates the type of hand based on its characteristics." alt="" coords="181,5,336,32"/>
+<area shape="rect" id="node2" href="$group__card.html#ga80d50cd9685643782a18b635f2dabf5b" title="Determines the rank of a hand of cards." alt="" coords="5,5,133,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="vg_draw_vline" name="vg_draw_vline">
+<area shape="rect" id="node1" title="Draws a vertical line of the specified color starting at the given coordinates." alt="" coords="667,42,783,69"/>
+<area shape="rect" id="node2" href="$group__menu__option.html#ga89c357d28ced4bebe3646ea0eb684267" title="Draws a selector box around the selected menu option." alt="" coords="413,42,619,69"/>
+<area shape="rect" id="node3" href="$group__choose__player.html#gafa45fbba36251b17dee381e7d427113b" title="Handles timer interrupts during player selection." alt="" coords="204,5,365,47"/>
+<area shape="rect" id="node5" href="$group__menu.html#ga447d337aa7a6289441098e4eef3f596f" title="Handles timer interrupts during menu navigation." alt="" coords="209,71,361,98"/>
+<area shape="rect" id="node4" href="$group__main.html#gaceb31f2ba59d58d3fa566eeee112297d" title="Handles timer interrupt controller." alt="" coords="5,42,156,69"/>
+</map>

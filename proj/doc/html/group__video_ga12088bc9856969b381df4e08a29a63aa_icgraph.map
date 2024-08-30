@@ -1,0 +1,5 @@
+<map id="B" name="B">
+<area shape="rect" id="node1" title="Extracts the blue component from a direct color." alt="" coords="156,31,195,57"/>
+<area shape="rect" id="node2" href="$group__video.html#ga89a2c38bc499608f807f98e09e60a5c0" title="Extracts the blue component from a direct color." alt="" coords="31,5,82,32"/>
+<area shape="rect" id="node3" href="$group__video.html#gaf9d614a67c6949467d7d3f2bf4191cde" title="Converts RGB components to a direct color in RGB565 mode." alt="" coords="5,56,108,83"/>
+</map>

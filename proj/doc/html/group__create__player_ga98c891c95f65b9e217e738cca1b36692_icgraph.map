@@ -1,0 +1,4 @@
+<map id="handle_mouse_create_player" name="handle_mouse_create_player">
+<area shape="rect" id="node1" title="Handles mouse input during player creation." alt="" coords="228,5,393,47"/>
+<area shape="rect" id="node2" href="$group__main.html#ga9d86b48154c314ee8aa001453248f6b1" title="Handles mouse input controller." alt="" coords="5,13,180,39"/>
+</map>

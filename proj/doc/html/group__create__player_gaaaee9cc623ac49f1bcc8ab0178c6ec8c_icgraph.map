@@ -1,0 +1,4 @@
+<map id="handle_timer_create_player" name="handle_timer_create_player">
+<area shape="rect" id="node1" title="Handles timer interrupts during player creation." alt="" coords="204,5,360,47"/>
+<area shape="rect" id="node2" href="$group__main.html#gaceb31f2ba59d58d3fa566eeee112297d" title="Handles timer interrupt controller." alt="" coords="5,13,156,39"/>
+</map>

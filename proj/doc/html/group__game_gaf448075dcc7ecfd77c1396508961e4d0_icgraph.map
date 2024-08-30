@@ -1,0 +1,6 @@
+<map id="decrease_number_of_coins" name="decrease_number_of_coins">
+<area shape="rect" id="node1" title="Decreases the number of coins." alt="" coords="584,5,743,47"/>
+<area shape="rect" id="node2" href="$group__game.html#ga765e9540ecc7a52be949782f83979313" title="Draws the screen indicating a loss." alt="" coords="404,13,536,39"/>
+<area shape="rect" id="node3" href="$group__game.html#ga8ad6bfc58667f64cce231a25fc7faab6" title="Handles timer interrupts during the game." alt="" coords="204,13,356,39"/>
+<area shape="rect" id="node4" href="$group__main.html#gaceb31f2ba59d58d3fa566eeee112297d" title="Handles timer interrupt controller." alt="" coords="5,13,156,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="kbd_disable_int" name="kbd_disable_int">
+<area shape="rect" id="node1" title="Disables keyboard interrupts." alt="" coords="5,31,129,57"/>
+<area shape="rect" id="node2" href="$group__kbc.html#gafe50572ecfcaa1eca11f438acb23aaf1" title="Reads the output from the keyboard controller." alt="" coords="191,5,321,32"/>
+<area shape="rect" id="node3" href="$group__kbc.html#ga43f3cf6fb1e60fc562bc819243ec3e90" title="Writes a command to the keyboard controller." alt="" coords="177,56,335,83"/>
+</map>

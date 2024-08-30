@@ -1,0 +1,12 @@
+<map id="draw_bet" name="draw_bet">
+<area shape="rect" id="node1" title="Draws the bet value." alt="" coords="679,157,761,184"/>
+<area shape="rect" id="node2" href="$group__game.html#ga3c0bedb97c99c5a2419640942d13a295" title="Draws the screen during the betting phase." alt="" coords="454,5,581,32"/>
+<area shape="rect" id="node5" href="$group__game.html#ga7502ce0c042b4b8a365ca20017f32192" title="Draws the screen indicating a draw." alt="" coords="449,56,586,83"/>
+<area shape="rect" id="node6" href="$group__game.html#ga765e9540ecc7a52be949782f83979313" title="Draws the screen indicating a loss." alt="" coords="451,107,583,133"/>
+<area shape="rect" id="node7" href="$group__game.html#ga4dcd91c263084a15812d9a45e2b28900" title="Draws the screen during the playing hand phase." alt="" coords="431,157,603,184"/>
+<area shape="rect" id="node8" href="$group__game.html#ga542a888ba88ec8a5452127defae32ed9" title="Draws the screen showing the dealer&#39;s hand." alt="" coords="404,208,631,235"/>
+<area shape="rect" id="node9" href="$group__game.html#gad73c32eaf961d7152829014355b16c1e" title="Draws the screen showing the player&#39;s hand." alt="" coords="404,259,631,285"/>
+<area shape="rect" id="node10" href="$group__game.html#gaf559743d399ccd6703a5ba8d9d4cfbbe" title="Draws the screen indicating a win." alt="" coords="453,309,581,336"/>
+<area shape="rect" id="node3" href="$group__game.html#ga8ad6bfc58667f64cce231a25fc7faab6" title="Handles timer interrupts during the game." alt="" coords="204,157,356,184"/>
+<area shape="rect" id="node4" href="$group__main.html#gaceb31f2ba59d58d3fa566eeee112297d" title="Handles timer interrupt controller." alt="" coords="5,157,156,184"/>
+</map>

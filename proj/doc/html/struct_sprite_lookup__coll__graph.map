@@ -1,0 +1,4 @@
+<map id="SpriteLookup" name="SpriteLookup">
+<area shape="rect" id="node1" title="Structure representing a sprite lookup table entry." alt="" coords="5,95,112,121"/>
+<area shape="rect" id="node2" href="$struct_sprite.html" title="Structure representing a sprite." alt="" coords="29,5,89,32"/>
+</map>

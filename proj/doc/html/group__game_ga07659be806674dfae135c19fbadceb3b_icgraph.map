@@ -1,0 +1,5 @@
+<map id="handle_game_mouse_slider" name="handle_game_mouse_slider">
+<area shape="rect" id="node1" title="Handles mouse input on the bet slider." alt="" coords="437,5,641,32"/>
+<area shape="rect" id="node2" href="$group__game.html#ga1884795e264c4d35db8939b1a6dc559b" title="Handles mouse input during the game." alt="" coords="228,5,389,32"/>
+<area shape="rect" id="node3" href="$group__main.html#ga9d86b48154c314ee8aa001453248f6b1" title="Handles mouse input controller." alt="" coords="5,5,180,32"/>
+</map>

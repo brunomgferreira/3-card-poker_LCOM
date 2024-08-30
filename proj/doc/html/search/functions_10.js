@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['validate_5fbet_464',['validate_bet',['../group__game.html#gad19735a949a948b8e5f831c9e411f97d',1,'validate_bet():&#160;game.c'],['../group__game.html#gad19735a949a948b8e5f831c9e411f97d',1,'validate_bet():&#160;game.c']]],
+  ['validate_5fnumber_5fof_5fcoins_465',['validate_number_of_coins',['../group__game.html#ga2bbfa2f6b80cb3dab8691fb95e1bd2fe',1,'validate_number_of_coins():&#160;game.c'],['../group__game.html#ga2bbfa2f6b80cb3dab8691fb95e1bd2fe',1,'validate_number_of_coins():&#160;game.c']]],
+  ['vg_5fdraw_5fhline_466',['vg_draw_hline',['../group__video.html#ga5e5b25bd525250f61f40b9e9f212d5e6',1,'vg_draw_hline(uint16_t x, uint16_t y, uint16_t len, uint32_t color):&#160;video.c'],['../group__video.html#ga5e5b25bd525250f61f40b9e9f212d5e6',1,'vg_draw_hline(uint16_t x, uint16_t y, uint16_t len, uint32_t color):&#160;video.c']]],
+  ['vg_5fdraw_5fpixel_467',['vg_draw_pixel',['../group__video.html#ga969d5a1c3f63e084f4d1b0c1e722a9fe',1,'vg_draw_pixel(uint16_t x, uint16_t y, uint32_t color):&#160;video.c'],['../group__video.html#ga969d5a1c3f63e084f4d1b0c1e722a9fe',1,'vg_draw_pixel(uint16_t x, uint16_t y, uint32_t color):&#160;video.c']]],
+  ['vg_5fdraw_5frectangle_468',['vg_draw_rectangle',['../group__video.html#ga99d2da2559e11200c6b40c469e9977ec',1,'vg_draw_rectangle(uint16_t x, uint16_t y, uint16_t width, uint16_t height, uint32_t color):&#160;video.c'],['../group__video.html#ga99d2da2559e11200c6b40c469e9977ec',1,'vg_draw_rectangle(uint16_t x, uint16_t y, uint16_t width, uint16_t height, uint32_t color):&#160;video.c']]],
+  ['vg_5fdraw_5fvline_469',['vg_draw_vline',['../group__video.html#ga1135e6421577648c6d1c0abc1e971663',1,'vg_draw_vline(uint16_t x, uint16_t y, uint16_t len, uint32_t color):&#160;video.c'],['../group__video.html#ga1135e6421577648c6d1c0abc1e971663',1,'vg_draw_vline(uint16_t x, uint16_t y, uint16_t len, uint32_t color):&#160;video.c']]]
+];

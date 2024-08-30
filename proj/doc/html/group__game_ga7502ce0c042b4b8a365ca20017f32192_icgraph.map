@@ -1,0 +1,5 @@
+<map id="draw_game_draw" name="draw_game_draw">
+<area shape="rect" id="node1" title="Draws the screen indicating a draw." alt="" coords="404,5,541,32"/>
+<area shape="rect" id="node2" href="$group__game.html#ga8ad6bfc58667f64cce231a25fc7faab6" title="Handles timer interrupts during the game." alt="" coords="204,5,356,32"/>
+<area shape="rect" id="node3" href="$group__main.html#gaceb31f2ba59d58d3fa566eeee112297d" title="Handles timer interrupt controller." alt="" coords="5,5,156,32"/>
+</map>

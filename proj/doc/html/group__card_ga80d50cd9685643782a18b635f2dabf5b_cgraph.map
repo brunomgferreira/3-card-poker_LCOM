@@ -1,0 +1,6 @@
+<map id="determine_hand" name="determine_hand">
+<area shape="rect" id="node1" title="Determines the rank of a hand of cards." alt="" coords="5,31,133,57"/>
+<area shape="rect" id="node2" href="$group__card.html#gae0e2a3ff78202655b21e3598665170e6" title="Evaluates the type of hand based on its characteristics." alt="" coords="181,31,336,57"/>
+<area shape="rect" id="node3" href="$group__card.html#ga12e2c5ce778bf7f79b08ce81d54f3e99" title="Creates a hand type based on the specified parameters." alt="" coords="384,5,523,32"/>
+<area shape="rect" id="node4" href="$group__card.html#gab386b74df562a26fcce9e49d17095c4e" title="Creates a hand type for a pair." alt="" coords="388,56,519,83"/>
+</map>

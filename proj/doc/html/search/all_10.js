@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['scancode_5fto_5fascii_231',['scancode_to_ascii',['../group__main.html#gaeb26223aad123254fa176ac0cac7d795',1,'scancode_to_ascii(uint8_t scancode):&#160;main.c'],['../group__main.html#gaeb26223aad123254fa176ac0cac7d795',1,'scancode_to_ascii(uint8_t scancode):&#160;main.c']]],
+  ['scroller_5fheight_232',['SCROLLER_HEIGHT',['../group__choose__player.html#ga5b2866d3769f4d4fec1010a70ffb0a74',1,'choosePlayer.h']]],
+  ['scroller_5fthumb_5fsize_233',['SCROLLER_THUMB_SIZE',['../group__choose__player.html#ga21ff301a132c24bb9a264e3aec909527',1,'choosePlayer.h']]],
+  ['scroller_5fthumb_5fx_234',['SCROLLER_THUMB_X',['../group__choose__player.html#ga8fecef819d3701cc34c76bed46f1d23c',1,'choosePlayer.h']]],
+  ['scroller_5fwidth_235',['SCROLLER_WIDTH',['../group__choose__player.html#ga3f3c8623fd7e6a656f4191cd192355b7',1,'choosePlayer.h']]],
+  ['scroller_5fx_236',['SCROLLER_X',['../group__choose__player.html#ga54fd9edff0d82ccf71645d0b64feb6bd',1,'choosePlayer.h']]],
+  ['scroller_5fy_237',['SCROLLER_Y',['../group__choose__player.html#ga6863cc9613e824c5777bf5b067971dac',1,'choosePlayer.h']]],
+  ['second_5fline_238',['SECOND_LINE',['../group__mouse.html#gga0d75111e722039d22dc2e1d6764c1a64ac6c2ac1a47062752989c7ef9ead7b8f1',1,'mouse.h']]],
+  ['select_5fplayer_239',['select_player',['../group__choose__player.html#gabd67352595907207d4294ffaf95dece3',1,'select_player(struct Player *player):&#160;choosePlayer.c'],['../group__choose__player.html#gabd67352595907207d4294ffaf95dece3',1,'select_player(struct Player *player):&#160;choosePlayer.c']]],
+  ['set_5fframe_5fbuffer_240',['set_frame_buffer',['../group__video.html#ga55bb0148c696baca125c2c03bd585ae5',1,'set_frame_buffer(uint16_t mode):&#160;video.c'],['../group__video.html#ga55bb0148c696baca125c2c03bd585ae5',1,'set_frame_buffer(uint16_t mode):&#160;video.c']]],
+  ['set_5fvideo_5fmode_241',['set_video_mode',['../group__video.html#ga43797fcc7192f91aa79c2a2f7bec3524',1,'set_video_mode(uint16_t submode):&#160;video.c'],['../group__video.html#ga43797fcc7192f91aa79c2a2f7bec3524',1,'set_video_mode(uint16_t submode):&#160;video.c']]],
+  ['shuffle_5fdeck_242',['shuffle_deck',['../group__card.html#ga7cc5705e42850800f0a8cdf5cd2d0b0f',1,'shuffle_deck(Card *deck):&#160;card.c'],['../group__card.html#ga7cc5705e42850800f0a8cdf5cd2d0b0f',1,'shuffle_deck(Card *deck):&#160;card.c']]],
+  ['spades_243',['SPADES',['../group__card.html#gga1b0e928802e4e3f672e98431684f3c64aa47c0114f1faaa4685a84fc8f710dbf4',1,'card.h']]],
+  ['speaker_5fctrl_244',['SPEAKER_CTRL',['../group__i8254.html#ga51b3a5e3d4811ca063fe25e35560ab40',1,'i8254.h']]],
+  ['sprite_245',['sprite',['../struct_sprite_lookup.html#aa518285d0353ccb26757cc35a727e67a',1,'SpriteLookup']]],
+  ['sprite_246',['Sprite',['../struct_sprite.html',1,'']]],
+  ['spritelookup_247',['SpriteLookup',['../struct_sprite_lookup.html',1,'']]],
+  ['straight_248',['STRAIGHT',['../group__card.html#ggabd5abf9a04be61e2301819e72a9342dba08707fd429345dc72f3d7b0cc867ef05',1,'card.h']]],
+  ['straight_5fflush_249',['STRAIGHT_FLUSH',['../group__card.html#ggabd5abf9a04be61e2301819e72a9342dba02768de5a629b299fc73da4b03833b0a',1,'card.h']]],
+  ['suit_250',['suit',['../struct_card.html#a27a07e8889b55c294884ca7dd21ffaf7',1,'Card']]],
+  ['suit_5fenum_251',['suit_enum',['../group__card.html#ga1b0e928802e4e3f672e98431684f3c64',1,'card.h']]],
+  ['swap_5fbuffers_252',['swap_buffers',['../group__video.html#gaa3eb82d3b44f0375e27216392595fdb3',1,'swap_buffers():&#160;video.c'],['../group__video.html#gaa3eb82d3b44f0375e27216392595fdb3',1,'swap_buffers():&#160;video.c']]],
+  ['sys_253',['SYS',['../group__i8042.html#gae3d9f52a1a315303ad04f0576bd42a25',1,'i8042.h']]]
+];

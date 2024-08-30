@@ -1,0 +1,5 @@
+<map id="is_on_scroller_thumb" name="is_on_scroller_thumb">
+<area shape="rect" id="node1" title="Checks if the mouse is on the scroller thumb." alt="" coords="447,13,607,39"/>
+<area shape="rect" id="node2" href="$group__choose__player.html#gabc3b63ad171e2a9cc64b4a27f3ef2bd2" title="Handles mouse input during player selection." alt="" coords="228,5,399,47"/>
+<area shape="rect" id="node3" href="$group__main.html#ga9d86b48154c314ee8aa001453248f6b1" title="Handles mouse input controller." alt="" coords="5,13,180,39"/>
+</map>

@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['i8042_139',['i8042',['../group__i8042.html',1,'']]],
+  ['i8254_140',['i8254',['../group__i8254.html',1,'']]],
+  ['ibf_141',['IBF',['../group__i8042.html#ga3c48b10907056351582baf9f6478598e',1,'i8042.h']]],
+  ['in_5fmode_142',['in_mode',['../group__timer.html#ga16c0028c537ce578196381bdc0cd97fd',1,'timer_status_field_val']]],
+  ['increase_5fbet_143',['increase_bet',['../group__game.html#gac5886920cb95274ab428729126380ad7',1,'increase_bet(int value):&#160;game.c'],['../group__game.html#gac5886920cb95274ab428729126380ad7',1,'increase_bet(int value):&#160;game.c']]],
+  ['increase_5fnumber_5fof_5fcoins_144',['increase_number_of_coins',['../group__game.html#ga3bccf89a804a2f24dc856266f041afcf',1,'increase_number_of_coins():&#160;game.c'],['../group__game.html#ga3bccf89a804a2f24dc856266f041afcf',1,'increase_number_of_coins():&#160;game.c']]],
+  ['indexed_5fmode_145',['indexed_mode',['../group__video.html#gafa66687e3abbaafc770e8ada77726da1',1,'indexed_mode(uint16_t col, uint16_t row, uint8_t step, uint32_t first, uint8_t n):&#160;video.c'],['../group__video.html#gafa66687e3abbaafc770e8ada77726da1',1,'indexed_mode(uint16_t col, uint16_t row, uint8_t step, uint32_t first, uint8_t n):&#160;video.c']]],
+  ['inh_146',['INH',['../group__i8042.html#ga03f542f1e0e2ba512c4ed189decfee3d',1,'i8042.h']]],
+  ['initial_147',['INITIAL',['../group__mouse.html#gga0d75111e722039d22dc2e1d6764c1a64a7116db6906963fd0720c4a85be250cf4',1,'mouse.h']]],
+  ['int_148',['INT',['../group__i8042.html#gafeeffe52c8fd59db7c61cf8b02042dbf',1,'i8042.h']]],
+  ['int2_149',['INT2',['../group__i8042.html#gab254a5a335276357f63779cda0b8e44f',1,'i8042.h']]],
+  ['inval_5fval_150',['INVAL_val',['../group__timer.html#gga5cc20f14fd50625eea9b20f58fbe2a55a829d958875d8e92068f1b07f858721a4',1,'timer.h']]],
+  ['is_5fon_5fbet_5fslider_5farea_151',['is_on_bet_slider_area',['../group__game.html#ga883308b11d5e733ff5378ad853dbd16b',1,'is_on_bet_slider_area():&#160;game.c'],['../group__game.html#ga883308b11d5e733ff5378ad853dbd16b',1,'is_on_bet_slider_area():&#160;game.c']]],
+  ['is_5fon_5fbet_5fslider_5fthumb_152',['is_on_bet_slider_thumb',['../group__game.html#gabea79966d70d4867057e651eb522e77c',1,'is_on_bet_slider_thumb():&#160;game.c'],['../group__game.html#gabea79966d70d4867057e651eb522e77c',1,'is_on_bet_slider_thumb():&#160;game.c']]],
+  ['is_5fon_5fclose_5fbutton_153',['is_on_close_button',['../group__main.html#ga40dd46a6adfe5395c737a5c599708727',1,'is_on_close_button():&#160;main.c'],['../group__main.html#ga40dd46a6adfe5395c737a5c599708727',1,'is_on_close_button():&#160;main.c']]],
+  ['is_5fon_5fdecrease_5fbet_5fbutton_154',['is_on_decrease_bet_button',['../group__game.html#gafd87b184801f1d1cd6cd18dff1053453',1,'is_on_decrease_bet_button():&#160;game.c'],['../group__game.html#gafd87b184801f1d1cd6cd18dff1053453',1,'is_on_decrease_bet_button():&#160;game.c']]],
+  ['is_5fon_5ffold_5fbutton_155',['is_on_fold_button',['../group__game.html#ga68ef374c946061e04874002fb806075a',1,'is_on_fold_button():&#160;game.c'],['../group__game.html#ga68ef374c946061e04874002fb806075a',1,'is_on_fold_button():&#160;game.c']]],
+  ['is_5fon_5fincrease_5fbet_5fbutton_156',['is_on_increase_bet_button',['../group__game.html#ga810c22604758d2a82112dab5bab5c330',1,'is_on_increase_bet_button():&#160;game.c'],['../group__game.html#ga810c22604758d2a82112dab5bab5c330',1,'is_on_increase_bet_button():&#160;game.c']]],
+  ['is_5fon_5fplay_5fbutton_157',['is_on_play_button',['../group__game.html#ga0b0c62d4b369a2a565f447e5e6e0660a',1,'is_on_play_button():&#160;game.c'],['../group__game.html#ga0b0c62d4b369a2a565f447e5e6e0660a',1,'is_on_play_button():&#160;game.c']]],
+  ['is_5fon_5fscroller_158',['is_on_scroller',['../group__choose__player.html#ga6c9c7ba248e8bc2fc2eb45731a37825e',1,'is_on_scroller():&#160;choosePlayer.c'],['../group__choose__player.html#ga6c9c7ba248e8bc2fc2eb45731a37825e',1,'is_on_scroller():&#160;choosePlayer.c']]],
+  ['is_5fon_5fscroller_5fthumb_159',['is_on_scroller_thumb',['../group__choose__player.html#ga50712b43bd0da8f20883663e6185a7d2',1,'is_on_scroller_thumb():&#160;choosePlayer.c'],['../group__choose__player.html#ga50712b43bd0da8f20883663e6185a7d2',1,'is_on_scroller_thumb():&#160;choosePlayer.c']]],
+  ['is_5fpoint_5fon_5fmenu_5foption_160',['is_point_on_menu_option',['../group__menu__option.html#ga2d222a1e4cc22156920fca3be8787abb',1,'is_point_on_menu_option(MenuOption option, uint32_t x, uint32_t y):&#160;menuOption.c'],['../group__menu__option.html#ga2d222a1e4cc22156920fca3be8787abb',1,'is_point_on_menu_option(MenuOption option, uint32_t x, uint32_t y):&#160;menuOption.c']]],
+  ['is_5fprintable_161',['is_printable',['../group__main.html#ga926e6ec6cf117b27052f7f36ebacb18b',1,'is_printable(uint8_t scancode):&#160;main.c'],['../group__main.html#ga926e6ec6cf117b27052f7f36ebacb18b',1,'is_printable(uint8_t scancode):&#160;main.c']]]
+];

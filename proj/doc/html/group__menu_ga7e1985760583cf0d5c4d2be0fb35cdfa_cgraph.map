@@ -1,0 +1,4 @@
+<map id="handle_mouse_menu" name="handle_mouse_menu">
+<area shape="rect" id="node1" title="Handles mouse input during menu navigation." alt="" coords="5,5,167,32"/>
+<area shape="rect" id="node2" href="$group__menu__option.html#ga2d222a1e4cc22156920fca3be8787abb" title="Checks if a point is on a menu option." alt="" coords="215,5,403,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="draw_menu_option_selector" name="draw_menu_option_selector">
+<area shape="rect" id="node1" title="Draws a selector box around the selected menu option." alt="" coords="5,31,211,57"/>
+<area shape="rect" id="node2" href="$group__video.html#ga5e5b25bd525250f61f40b9e9f212d5e6" title="Draws a horizontal line of the specified color starting at the given coordinates." alt="" coords="259,5,375,32"/>
+<area shape="rect" id="node4" href="$group__video.html#ga1135e6421577648c6d1c0abc1e971663" title="Draws a vertical line of the specified color starting at the given coordinates." alt="" coords="259,56,375,83"/>
+<area shape="rect" id="node3" href="$group__video.html#ga969d5a1c3f63e084f4d1b0c1e722a9fe" title="Draws a pixel of the specified color at the given coordinates." alt="" coords="423,31,537,57"/>
+</map>

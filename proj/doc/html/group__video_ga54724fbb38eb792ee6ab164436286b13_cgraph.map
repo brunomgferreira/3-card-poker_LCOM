@@ -1,0 +1,4 @@
+<map id="print_xpm" name="print_xpm">
+<area shape="rect" id="node1" title="Prints an XPM image on the screen at the specified coordinates." alt="" coords="5,5,93,32"/>
+<area shape="rect" id="node2" href="$group__video.html#ga969d5a1c3f63e084f4d1b0c1e722a9fe" title="Draws a pixel of the specified color at the given coordinates." alt="" coords="141,5,256,32"/>
+</map>

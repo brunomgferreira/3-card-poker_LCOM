@@ -1,0 +1,4 @@
+<map id="handle_mouse_create_player" name="handle_mouse_create_player">
+<area shape="rect" id="node1" title="Handles mouse input during player creation." alt="" coords="5,5,171,47"/>
+<area shape="rect" id="node2" href="$group__main.html#ga40dd46a6adfe5395c737a5c599708727" title="Checks if the mouse is on the close button." alt="" coords="219,13,365,39"/>
+</map>

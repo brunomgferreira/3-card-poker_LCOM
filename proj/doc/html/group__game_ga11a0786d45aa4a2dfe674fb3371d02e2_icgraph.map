@@ -1,0 +1,7 @@
+<map id="flip_player_cards" name="flip_player_cards">
+<area shape="rect" id="node1" title="Flips the player&#39;s cards." alt="" coords="912,5,1044,32"/>
+<area shape="rect" id="node2" href="$group__game.html#ga8eed2965410ae2aeeae86536ece5c712" title="Draws the revealed player&#39;s cards." alt="" coords="679,5,864,32"/>
+<area shape="rect" id="node3" href="$group__game.html#gad73c32eaf961d7152829014355b16c1e" title="Draws the screen showing the player&#39;s hand." alt="" coords="404,5,631,32"/>
+<area shape="rect" id="node4" href="$group__game.html#ga8ad6bfc58667f64cce231a25fc7faab6" title="Handles timer interrupts during the game." alt="" coords="204,5,356,32"/>
+<area shape="rect" id="node5" href="$group__main.html#gaceb31f2ba59d58d3fa566eeee112297d" title="Handles timer interrupt controller." alt="" coords="5,5,156,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="select_player" name="select_player">
+<area shape="rect" id="node1" title="Selects a player based on mouse input." alt="" coords="713,42,823,69"/>
+<area shape="rect" id="node2" href="$group__choose__player.html#gae083914c52a04f03b3464185ee6f87d7" title="Handles mouse click events during player selection." alt="" coords="483,5,649,47"/>
+<area shape="rect" id="node5" href="$group__choose__player.html#ga4132f11dfaa291ba847c01380c2c2a2f" title="Handles keyboard input during player selection." alt="" coords="467,71,665,98"/>
+<area shape="rect" id="node3" href="$group__choose__player.html#gabc3b63ad171e2a9cc64b4a27f3ef2bd2" title="Handles mouse input during player selection." alt="" coords="238,5,409,47"/>
+<area shape="rect" id="node4" href="$group__main.html#ga9d86b48154c314ee8aa001453248f6b1" title="Handles mouse input controller." alt="" coords="5,13,180,39"/>
+<area shape="rect" id="node6" href="$group__main.html#ga863e46ed21d85cec69f2eb87b6402047" title="Handles keyboard input controller." alt="" coords="228,71,419,98"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="read_kbd_input_str" name="read_kbd_input_str">
+<area shape="rect" id="node1" title="Reads keyboard input as a string." alt="" coords="485,5,632,32"/>
+<area shape="rect" id="node2" href="$group__create__player.html#gaab63f3ddbfd4ec0b64e161ebe61045c2" title="Handles keyboard input during player creation." alt="" coords="244,5,437,32"/>
+<area shape="rect" id="node3" href="$group__main.html#ga863e46ed21d85cec69f2eb87b6402047" title="Handles keyboard input controller." alt="" coords="5,5,196,32"/>
+</map>

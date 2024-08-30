@@ -1,0 +1,7 @@
+<map id="flip_dealer_cards" name="flip_dealer_cards">
+<area shape="rect" id="node1" title="Flips the dealer&#39;s cards." alt="" coords="912,5,1044,32"/>
+<area shape="rect" id="node2" href="$group__game.html#gad615100efbec39ad2e2fb25567cf0f80" title="Draws the revealed dealer&#39;s cards." alt="" coords="679,5,864,32"/>
+<area shape="rect" id="node3" href="$group__game.html#ga542a888ba88ec8a5452127defae32ed9" title="Draws the screen showing the dealer&#39;s hand." alt="" coords="404,5,631,32"/>
+<area shape="rect" id="node4" href="$group__game.html#ga8ad6bfc58667f64cce231a25fc7faab6" title="Handles timer interrupts during the game." alt="" coords="204,5,356,32"/>
+<area shape="rect" id="node5" href="$group__main.html#gaceb31f2ba59d58d3fa566eeee112297d" title="Handles timer interrupt controller." alt="" coords="5,5,156,32"/>
+</map>

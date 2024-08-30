@@ -1,0 +1,4 @@
+<map id="handle_kbd_menu" name="handle_kbd_menu">
+<area shape="rect" id="node1" title="Handles keyboard input during menu navigation." alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node2" href="$group__menu__option.html#ga44c3f47a36e3b1404343da96c94f18bb" title="Moves the selector on the menu options based on keyboard input." alt="" coords="195,5,357,32"/>
+</map>

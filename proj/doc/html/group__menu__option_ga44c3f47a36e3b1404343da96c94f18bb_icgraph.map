@@ -1,0 +1,5 @@
+<map id="menu_move_selector" name="menu_move_selector">
+<area shape="rect" id="node1" title="Moves the selector on the menu options based on keyboard input." alt="" coords="433,5,596,32"/>
+<area shape="rect" id="node2" href="$group__menu.html#ga8b56dbcd0e911fda0a79bd7990a9831c" title="Handles keyboard input during menu navigation." alt="" coords="244,5,385,32"/>
+<area shape="rect" id="node3" href="$group__main.html#ga863e46ed21d85cec69f2eb87b6402047" title="Handles keyboard input controller." alt="" coords="5,5,196,32"/>
+</map>

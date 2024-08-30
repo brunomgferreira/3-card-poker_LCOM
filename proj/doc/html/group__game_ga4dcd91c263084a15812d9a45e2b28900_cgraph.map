@@ -1,0 +1,12 @@
+<map id="draw_game_play_hand" name="draw_game_play_hand">
+<area shape="rect" id="node1" title="Draws the screen during the playing hand phase." alt="" coords="5,81,177,108"/>
+<area shape="rect" id="node2" href="$group__game.html#ga6ca5325dbdaccc7c8d0eb47bda8e130f" title="Draws the bet value." alt="" coords="255,5,337,32"/>
+<area shape="rect" id="node7" href="$group__game.html#gac424c1202da14138d653e911304837a8" title="Draws the dealer&#39;s hand." alt="" coords="225,56,367,83"/>
+<area shape="rect" id="node8" href="$group__game.html#gaeeafc4588bba4314221192cfe2503a40" title="Draws the player&#39;s hand." alt="" coords="225,107,367,133"/>
+<area shape="rect" id="node9" href="$group__card.html#ga7ed1ff98e46a07f055505990d656a9f4" title="Determines the outcome of a poker game based on the hands of the player and the house." alt="" coords="240,157,352,184"/>
+<area shape="rect" id="node3" href="$group__main.html#ga010e99d88466fcbec8b586168b4bccfd" title="Draws a text container on the screen." alt="" coords="415,5,569,32"/>
+<area shape="rect" id="node4" href="$group__video.html#ga99d2da2559e11200c6b40c469e9977ec" title="Draws a rectangle of the specified color starting at the given coordinates." alt="" coords="617,5,763,32"/>
+<area shape="rect" id="node5" href="$group__video.html#ga5e5b25bd525250f61f40b9e9f212d5e6" title="Draws a horizontal line of the specified color starting at the given coordinates." alt="" coords="811,5,927,32"/>
+<area shape="rect" id="node6" href="$group__video.html#ga969d5a1c3f63e084f4d1b0c1e722a9fe" title="Draws a pixel of the specified color at the given coordinates." alt="" coords="975,5,1089,32"/>
+<area shape="rect" id="node10" href="$group__card.html#ga2faa3c390787d16d2fba86033233d3c4" title="Calculates the score of a hand based on its rank." alt="" coords="426,157,558,184"/>
+</map>

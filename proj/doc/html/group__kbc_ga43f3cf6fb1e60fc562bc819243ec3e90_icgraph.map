@@ -1,0 +1,6 @@
+<map id="kbc_write_command" name="kbc_write_command">
+<area shape="rect" id="node1" title="Writes a command to the keyboard controller." alt="" coords="177,56,335,83"/>
+<area shape="rect" id="node2" href="$group__keyboard.html#gae1f2b14717226f10f9609b27bce61eb9" title="Disables keyboard interrupts." alt="" coords="5,5,129,32"/>
+<area shape="rect" id="node3" href="$group__keyboard.html#gab2698b094b95ec9e2d4bc4a9076e32fe" title="Restores the keyboard to its default state." alt="" coords="18,56,117,83"/>
+<area shape="rect" id="node4" href="$group__mouse.html#ga1703c3c5b61eef30d724b15cafd1d75e" title="Writes a command to the mouse." alt="" coords="14,107,121,133"/>
+</map>

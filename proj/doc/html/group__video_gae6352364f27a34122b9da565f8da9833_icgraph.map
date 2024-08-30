@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" title="Extracts the green component from a direct color." alt="" coords="156,31,195,57"/>
+<area shape="rect" id="node2" href="$group__video.html#gaf9d614a67c6949467d7d3f2bf4191cde" title="Converts RGB components to a direct color in RGB565 mode." alt="" coords="5,5,108,32"/>
+<area shape="rect" id="node3" href="$group__video.html#ga0a15fc430c20009cc0ff6885758daa7f" title="Extracts the green component from a direct color." alt="" coords="26,56,87,83"/>
+</map>

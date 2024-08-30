@@ -1,0 +1,4 @@
+<map id="find_card_sprite" name="find_card_sprite">
+<area shape="rect" id="node1" title="Finds the sprite associated with a card." alt="" coords="143,5,268,32"/>
+<area shape="rect" id="node2" href="$group__card.html#ga49bc5efc8df2edadd7ebe4c47846a141" title="Draws a card at the specified coordinates." alt="" coords="5,5,95,32"/>
+</map>

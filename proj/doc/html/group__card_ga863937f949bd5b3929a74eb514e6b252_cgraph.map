@@ -1,0 +1,4 @@
+<map id="print_deck" name="print_deck">
+<area shape="rect" id="node1" title="Prints the details of a deck of cards." alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node2" href="$group__card.html#ga27363081e55545144e2b0f7515948e06" title="Prints the details of a card." alt="" coords="144,5,231,32"/>
+</map>

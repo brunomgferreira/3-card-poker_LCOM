@@ -1,0 +1,4 @@
+<map id="winning_hand" name="winning_hand">
+<area shape="rect" id="node1" title="Determines the outcome of a poker game based on the hands of the player and the house." alt="" coords="5,5,117,32"/>
+<area shape="rect" id="node2" href="$group__card.html#ga2faa3c390787d16d2fba86033233d3c4" title="Calculates the score of a hand based on its rank." alt="" coords="165,5,297,32"/>
+</map>

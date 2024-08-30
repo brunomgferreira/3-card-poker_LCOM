@@ -1,0 +1,6 @@
+<map id="draw_bet_button" name="draw_bet_button">
+<area shape="rect" id="node1" title="Draws the bet button." alt="" coords="579,5,709,32"/>
+<area shape="rect" id="node2" href="$group__game.html#ga3c0bedb97c99c5a2419640942d13a295" title="Draws the screen during the betting phase." alt="" coords="404,5,531,32"/>
+<area shape="rect" id="node3" href="$group__game.html#ga8ad6bfc58667f64cce231a25fc7faab6" title="Handles timer interrupts during the game." alt="" coords="204,5,356,32"/>
+<area shape="rect" id="node4" href="$group__main.html#gaceb31f2ba59d58d3fa566eeee112297d" title="Handles timer interrupt controller." alt="" coords="5,5,156,32"/>
+</map>

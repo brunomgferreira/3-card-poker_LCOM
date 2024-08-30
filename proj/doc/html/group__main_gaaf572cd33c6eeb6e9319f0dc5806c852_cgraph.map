@@ -1,0 +1,5 @@
+<map id="read_kbd_input_str" name="read_kbd_input_str">
+<area shape="rect" id="node1" title="Reads keyboard input as a string." alt="" coords="5,31,152,57"/>
+<area shape="rect" id="node2" href="$group__main.html#ga926e6ec6cf117b27052f7f36ebacb18b" title="Checks if a scancode represents a printable character." alt="" coords="221,5,319,32"/>
+<area shape="rect" id="node3" href="$group__main.html#gaeb26223aad123254fa176ac0cac7d795" title="Converts scancode to ASCII character." alt="" coords="200,56,340,83"/>
+</map>

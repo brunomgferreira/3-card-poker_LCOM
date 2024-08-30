@@ -1,0 +1,4 @@
+<map id="handle_timer_create_player" name="handle_timer_create_player">
+<area shape="rect" id="node1" title="Handles timer interrupts during player creation." alt="" coords="5,5,161,47"/>
+<area shape="rect" id="node2" href="$group__main.html#ga95c31fd948e2e631103e6465fc8c4841" title="Decodes a word and draws it on the screen." alt="" coords="209,13,317,39"/>
+</map>

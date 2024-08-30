@@ -1,0 +1,7 @@
+<map id="wordDecoder" name="wordDecoder">
+<area shape="rect" id="node1" title="Decodes a word and draws it on the screen." alt="" coords="571,56,679,83"/>
+<area shape="rect" id="node2" href="$group__choose__player.html#ga644589bbe1a51ca18d3504e21fc8dea3" title="Draws the players to select from." alt="" coords="413,5,523,32"/>
+<area shape="rect" id="node3" href="$group__choose__player.html#gafa45fbba36251b17dee381e7d427113b" title="Handles timer interrupts during player selection." alt="" coords="204,34,365,75"/>
+<area shape="rect" id="node5" href="$group__create__player.html#gaaaee9cc623ac49f1bcc8ab0178c6ec8c" title="Handles timer interrupts during player creation." alt="" coords="207,99,363,141"/>
+<area shape="rect" id="node4" href="$group__main.html#gaceb31f2ba59d58d3fa566eeee112297d" title="Handles timer interrupt controller." alt="" coords="5,75,156,101"/>
+</map>
